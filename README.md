@@ -3,7 +3,7 @@
 - 👨‍💻 I am currently working as a frontend developer using AngularJS framework.
 - 🔭 Recently I was and still working on a personal on a project (which also served as my Master's degree final project) related with data mining and analysis called Nuerorule. You can visit the website project https://neurorule.com
 - 🌱 I am deeply interested in all IT world and specially in devOps and system administrarion.
-- 
+
 <!--
 **BraisIglesias17/Braisiglesias17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here you can see some of the technologies that i manage.
 # 💻 Tech Stack:
 
 Cloud: ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
