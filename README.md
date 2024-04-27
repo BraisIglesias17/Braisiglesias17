@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Brais
-
-# I am a passionate software engineer.
+### Hi there 👋 I'm Brais, a passionate software engineer.
 
 - 👨‍💻 I am currently working as a frontend developer using AngularJS framework.
 - 🔭 Recently I was and still working on a personal on a project (which also served as my Master's degree final project) related with data mining and analysis called Nuerorule. You can visit the website project https://neurorule.com
