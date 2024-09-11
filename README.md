@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brais, a passionate software engineer.
 
-- 👨‍💻 I am currently working as a frontend developer using AngularJS framework.
+- 👨‍💻 I am currently working as a Researcher at Universidad Politécnica de Madrid.
 - 🔭 Recently I was (and still) working on a personal project (which also served as my Master's degree final project) related with data mining and analysis called Neurorule. You can visit the website project https://neurorule.com
 - 🌱 I am deeply interested in all IT world and specially in devOps and system administrarion.
 
